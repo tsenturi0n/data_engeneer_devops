@@ -1,0 +1,88 @@
+{
+  "total_vacancies": 221,
+  "tech_vacancies": 16,
+  "tech_percentage": 7.239819004524888,
+  "tech_vacancies_details": [
+    {
+      "name": "Ведущий аналитик / data engineer / аналитик данных (middle)",
+      "url": "https://hh.ru/vacancy/127213450",
+      "id": "127213450"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/127370177",
+      "id": "127370177"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/127331666",
+      "id": "127331666"
+    },
+    {
+      "name": "Senior Data Engineer",
+      "url": "https://hh.ru/vacancy/127263812",
+      "id": "127263812"
+    },
+    {
+      "name": "Data Engineer (проект на 6 месяцев)",
+      "url": "https://hh.ru/vacancy/127379844",
+      "id": "127379844"
+    },
+    {
+      "name": "Data Engineer (Дата-инженер)",
+      "url": "https://hh.ru/vacancy/126972396",
+      "id": "126972396"
+    },
+    {
+      "name": "Data Engineer/ Middle",
+      "url": "https://hh.ru/vacancy/126310803",
+      "id": "126310803"
+    },
+    {
+      "name": "Data Engineer (дата инженер)",
+      "url": "https://hh.ru/vacancy/127178868",
+      "id": "127178868"
+    },
+    {
+      "name": "Data Engineer (SRE)",
+      "url": "https://hh.ru/vacancy/126875034",
+      "id": "126875034"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/127135210",
+      "id": "127135210"
+    },
+    {
+      "name": "Data Engineer (Senior/Middle)",
+      "url": "https://hh.ru/vacancy/126831561",
+      "id": "126831561"
+    },
+    {
+      "name": "Data Engineer (Интеграционная платформа)",
+      "url": "https://hh.ru/vacancy/125541415",
+      "id": "125541415"
+    },
+    {
+      "name": "Data Engineer/ Senior",
+      "url": "https://hh.ru/vacancy/127157661",
+      "id": "127157661"
+    },
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/126303293",
+      "id": "126303293"
+    },
+    {
+      "name": "Senior Data Engineer (Dubai onsite)",
+      "url": "https://hh.ru/vacancy/126704520",
+      "id": "126704520"
+    },
+    {
+      "name": "Data Engineer (Senior/Middle)",
+      "url": "https://hh.ru/vacancy/126829373",
+      "id": "126829373"
+    }
+  ],
+  "technology": "json"
+}

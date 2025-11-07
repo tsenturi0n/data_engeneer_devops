@@ -1,0 +1,63 @@
+{
+  "total_vacancies": 221,
+  "tech_vacancies": 11,
+  "tech_percentage": 4.97737556561086,
+  "tech_vacancies_details": [
+    {
+      "name": "Data Engineer",
+      "url": "https://hh.ru/vacancy/127331666",
+      "id": "127331666"
+    },
+    {
+      "name": "Senior Data Engineer",
+      "url": "https://hh.ru/vacancy/127263812",
+      "id": "127263812"
+    },
+    {
+      "name": "Data Engineer (проект на 6 месяцев)",
+      "url": "https://hh.ru/vacancy/127379844",
+      "id": "127379844"
+    },
+    {
+      "name": "Data Engineer (Дата-инженер)",
+      "url": "https://hh.ru/vacancy/126972396",
+      "id": "126972396"
+    },
+    {
+      "name": "Инженер данных (Data Engineer)",
+      "url": "https://hh.ru/vacancy/126785056",
+      "id": "126785056"
+    },
+    {
+      "name": "Data Engineer/Scientist/Analytic",
+      "url": "https://hh.ru/vacancy/126753999",
+      "id": "126753999"
+    },
+    {
+      "name": "Data Engineer (SRE)",
+      "url": "https://hh.ru/vacancy/126875034",
+      "id": "126875034"
+    },
+    {
+      "name": "Data Engineer (Senior/Middle)",
+      "url": "https://hh.ru/vacancy/126831561",
+      "id": "126831561"
+    },
+    {
+      "name": "Data Engineer (Интеграционная платформа)",
+      "url": "https://hh.ru/vacancy/125541415",
+      "id": "125541415"
+    },
+    {
+      "name": "Эксперт BI Visiology (Data Engineer)",
+      "url": "https://hh.ru/vacancy/116059420",
+      "id": "116059420"
+    },
+    {
+      "name": "Data Engineer (Senior/Middle)",
+      "url": "https://hh.ru/vacancy/126829373",
+      "id": "126829373"
+    }
+  ],
+  "technology": "csv"
+}
